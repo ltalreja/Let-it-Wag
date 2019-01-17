@@ -1,0 +1,7 @@
+**/bin/
+Lab_8_skeleton/nbproject/nbproject/private/
+**/build/
+**/nbbuild/
+dist/
+nbdist/
+.nb-gradle/
